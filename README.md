@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m Rian Yunandar. I am a Full Stack Developer from Indonesia. I am currently Working as Software Engineer .
+I’m Rian Yunandar. I am a Full Stack Developer from Indonesia. I am currently Working as FullStack Web Developer .
 
 ## My Skills
 ```js
