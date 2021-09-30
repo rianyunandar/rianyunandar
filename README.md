@@ -13,8 +13,8 @@ let skills = {
   },
   database: {
     nonRelational : MongoDB,
-    relational : MySQL
+    relational : MySQL,PostgreSQL
   },
-  tools : [Git, Postman, Heroku, Netlify,AWS]
+  tools : [Git, Postman, Heroku, Netlify,AWS,nginx]
 }
 ```
